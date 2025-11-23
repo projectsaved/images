@@ -1,0 +1,19 @@
+{
+  "zdjecia": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jian-8FighterChina.jpg/500px-Jian-8FighterChina.jpg",
+      "nazwa": "Shenyang J-8 | 1",
+      "opis": "Zdjecie Shenyang J-8"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Shenyang_J-8I_and_J-8II.png/330px-Shenyang_J-8I_and_J-8II.png",
+      "nazwa": "Shenyang J-8 | Rzut",
+      "opis": "Zdjecie rzutu Shenyang J-8"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Shenyang_J-8.JPEG/500px-Shenyang_J-8.JPEG",
+      "nazwa": "Shenyang J-8II | 1",
+      "opis": "Nowy Shenyang J-8 - Shenyang J-8II"
+    }
+  ]
+}
